@@ -33,14 +33,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rupamherebuilds/rupamherebuilds/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/rupamherebuilds/rupamherebuilds/output/github-snake-dark.svg?v=2"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rupamherebuilds/rupamherebuilds/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/rupamherebuilds/rupamherebuilds/output/github-snake.svg?v=2"
     />
     <img
-      src="https://raw.githubusercontent.com/rupamherebuilds/rupamherebuilds/output/github-snake-dark.svg"
+      src="https://raw.githubusercontent.com/rupamherebuilds/rupamherebuilds/output/github-snake-dark.svg?v=2"
       alt="GitHub contribution snake animation"
       width="100%"
     />
