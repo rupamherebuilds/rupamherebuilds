@@ -55,12 +55,3 @@
   <a href="mailto:rupamhaldar20@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100074625699180"><img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" /></a>
 </p>
-  &nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/profile.php?id=100074625699180">
-    <img
-      src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F"
-      alt="Facebook"
-    />
-  </a>
-</p>
